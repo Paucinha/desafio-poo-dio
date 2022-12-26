@@ -1,4 +1,4 @@
-# Desafio de Projero: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+# Desafio de Projeto: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 [![GitHub](https://img.shields.io/github/license/Paucinha/desafio-poo-dio)](https://github.com/Paucinha/desafio-poo-dio/blob/master/LICENSE)
 
