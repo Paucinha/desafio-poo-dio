@@ -2,10 +2,7 @@
 
 # Descrição do Desafio 
 
-[![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/projeto-deploy/blob/master/LICENSE)
 
-
-https://github.com/Paucinha/desafio-poo-dio/blob/master/LICENSE
 
 Descrição do Desafio 
 
