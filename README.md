@@ -1,4 +1,13 @@
+# Desafio de Projero: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+
 # Descrição do Desafio 
+
+[![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/projeto-deploy/blob/master/LICENSE)
+
+
+https://github.com/Paucinha/desafio-poo-dio/blob/master/LICENSE
+
+Descrição do Desafio 
 
 Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique 
 esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente 
